@@ -1,0 +1,14 @@
+{
+  "CHANGELOG.md": "e0d56f5a340f0303dccfd02e46d4a7f0",
+  "Gemfile": "38d811a6390caaa81933814dca2b6293",
+  "LICENSE": "86d3f3a95c324c9479bd8986968f4327",
+  "README.md": "f6cb1c9175d23209ea53e8f50973d9c6",
+  "Rakefile": "11239df5530f9d3a4d807871368724e9",
+  "examples/input.json": "8c8acf8880d6fe6f06d9c2e0a2dfd9ed",
+  "examples/mytask.json": "88826bc616c22a27ea38bef44886eea1",
+  "examples/mytask.py": "11495ddc2083925eb509c4f1cc285f3d",
+  "files/task_helper.py": "d79400c29a38b2299fddfb0185144924",
+  "files/test_task_helper.py": "ac278c0e9ae70be0ff2c151c01e749b4",
+  "metadata.json": "22ab9412d044259da5b446cdef227bab",
+  "tests/test_mytask.py": "02d4d82e347debd62d69dae579d71c64"
+}
