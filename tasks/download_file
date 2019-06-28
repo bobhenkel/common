@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#bolt task run common::download_github_file destination_fullpath="/tmp/kind-test" url="https://github.com/kubernetes-sigs/kind/releases/download/v0.4.0/kind-linux-amd64" --nodes localhost --modulepath .
+#TODO add sha256sum checking
+
+if ! [ -f $PT_destination_fullpath ]; then
+  curl -Lo $PT_destination_fullpath $PT_url
+  chmod +x $PT_destination_fullpath
+fi
